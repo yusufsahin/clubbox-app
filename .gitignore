@@ -1,0 +1,8 @@
+﻿# Keep this repo binary-free; ship installers via GitHub Releases.
+*.exe
+*.dmg
+*.blockmap
+*.zip
+*.AppImage
+release/
+node_modules/
