@@ -2,21 +2,29 @@
 
 Unofficial desktop studio for Clubhouse. **Not affiliated with Clubhouse.** Personal, non-commercial use only — use at your own risk.
 
+## Local build output
+
+On this machine, `npm run dist` in the private source repo writes installers to:
+
+`C:\Projects\clubdeck-app\release\`
+
+That folder is gitignored. Public downloads still go through GitHub Releases.
+
 ## Download (Windows)
 
-Installers are on the [Releases](https://github.com/yusufsahin/clubbox-app/releases) page (not in this repo — files are too large for git).
+Installers are on the [Releases](https://github.com/yusufsahin/clubbox-app/releases) page (not in this git tree — files are too large for git).
 
 | File | Use |
 | --- | --- |
 | `Clubbox-*-setup.exe` | Installer (choose folder, Start Menu shortcut) |
 | `Clubbox-*-portable.exe` | No install — run directly |
 
-Current version: **2.0.0**
+Current version: **2.1.0**
 
 ## Install
 
 1. Open the latest [Release](https://github.com/yusufsahin/clubbox-app/releases/latest).
-2. Download `Clubbox-2.0.0-setup.exe` (or the portable build).
+2. Download `Clubbox-2.1.0-setup.exe` (or the portable build).
 3. Run it. If Windows SmartScreen warns about an unknown publisher, choose **More info** → **Run anyway** (the build is not code-signed).
 4. Launch **Clubbox** from the Start Menu (or run the portable exe).
 
