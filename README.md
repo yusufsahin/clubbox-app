@@ -2,6 +2,13 @@
 
 Unofficial desktop studio for Clubhouse. **Not affiliated with Clubhouse.** Personal, non-commercial use only — use at your own risk.
 
+## Guides
+
+| Doc | |
+| --- | --- |
+| **[USER_GUIDE.md](./USER_GUIDE.md)** | Install, first run, rooms, moderation, audio overview |
+| **[VB_CABLE.md](./VB_CABLE.md)** | VB-Cable / music integration, Windows format, in-app check |
+
 ## Local build output
 
 On this machine, `npm run dist` in the private source repo writes installers to:
@@ -25,8 +32,10 @@ Current version: **2.2.0**
 
 1. Open the latest [Release](https://github.com/yusufsahin/clubbox-app/releases/latest).
 2. Download `Clubbox-2.2.0-setup.exe` (or the portable build).
-3. Run it. The build is **not code-signed**. If Windows SmartScreen or Smart App Control blocks it, use **More info → Run anyway**, or run the portable build / allow the app in Windows Security (personal use of a build you trust).
+3. Run it. The build is **not code-signed**. If Windows SmartScreen or Smart App Control blocks it, see [USER_GUIDE.md](./USER_GUIDE.md#install-windows).
 4. Launch **Clubbox** from the Start Menu (or run the portable exe).
+
+Full walkthrough: **[USER_GUIDE.md](./USER_GUIDE.md)**. Music setup: **[VB_CABLE.md](./VB_CABLE.md)**.
 
 ## First run
 
