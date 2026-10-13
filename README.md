@@ -23,17 +23,17 @@ Installers are on the [Releases](https://github.com/yusufsahin/clubbox-app/relea
 
 | File | Use |
 | --- | --- |
-| `Clubbox-*-portable.exe` | No install — run directly (**2.3.0 primary**) |
-| `Clubbox-*-setup.exe` | Installer when available (Smart App Control may block unsigned NSIS packaging on the build machine) |
+| `Clubbox-*-setup.exe` | Installer (choose folder, Start Menu + desktop shortcut) |
+| `Clubbox-*-portable.exe` | No install — run directly |
 
 Current version: **2.3.0**
 
 ## Install
 
 1. Open the latest [Release](https://github.com/yusufsahin/clubbox-app/releases/latest).
-2. Download `Clubbox-2.3.0-portable.exe`.
+2. Download `Clubbox-2.3.0-setup.exe` (or the portable build).
 3. Run it. The build is **not code-signed**. If Windows SmartScreen or Smart App Control blocks it, see [USER_GUIDE.md](./USER_GUIDE.md#install-windows).
-4. No Start Menu shortcut for portable — pin the exe or create your own shortcut.
+4. Launch **Clubbox** from the Start Menu (or run the portable exe).
 
 Full walkthrough: **[USER_GUIDE.md](./USER_GUIDE.md)**. Music setup: **[VB_CABLE.md](./VB_CABLE.md)**.
 
