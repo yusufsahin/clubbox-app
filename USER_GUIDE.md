@@ -57,6 +57,7 @@ Use **Open on phone** (or the help card) and moderate from the official app.
 - Open **Music & external audio setup** from Settings › Audio, the hallway, or the room. Nothing changes until **Apply**.
 - Quality levels (Normal / High / Music) live in **Room details › Audio**. Use **Music** for external stereo music (headphones recommended — echo cancellation is off).
 - Cockpit **send-quality** chip and Live details › My audio show bitrate / stereo while you are publishing.
+- Cockpit **Music** (when External is live) mutes VB-Cable / external audio only; mic mute (Space) stays separate.
 - **Audio check** (local only): from Live details or the send-quality chip — 5s meters, nothing sent to the room.
 
 ---

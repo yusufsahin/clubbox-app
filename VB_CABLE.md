@@ -28,7 +28,7 @@ If Device Manager lists **two** VB-Cable instances and one is broken, remove the
 Effects:
 
 - Clubbox mixes mic + external and can **duck** music under your voice.
-- Muting the mic does **not** stop the music.
+- Muting the mic does **not** stop the music. Cut music with the cockpit **Music** button (or Live details › Mute external). Soundboard stays under Sounds › Stop.
 - Local recording includes the mix.
 
 ### In Clubbox
