@@ -26,12 +26,12 @@ Installers are on the [Releases](https://github.com/yusufsahin/clubbox-app/relea
 | `Clubbox-*-setup.exe` | Installer (choose folder, Start Menu + desktop shortcut) |
 | `Clubbox-*-portable.exe` | No install — run directly |
 
-Current version: **2.4.0**
+Current version: **2.4.1**
 
 ## Install
 
 1. Open the latest [Release](https://github.com/yusufsahin/clubbox-app/releases/latest).
-2. Download `Clubbox-2.4.0-setup.exe` (or the portable build).
+2. Download `Clubbox-2.4.1-setup.exe` (or the portable build).
 3. Run it. The build is **not code-signed**. If Windows SmartScreen or Smart App Control blocks it, see [USER_GUIDE.md](./USER_GUIDE.md#install-windows).
 4. Launch **Clubbox** from the Start Menu (or run the portable exe).
 

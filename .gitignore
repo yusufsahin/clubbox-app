@@ -6,3 +6,7 @@
 *.AppImage
 release/
 node_modules/
+
+release-build/
+release-tmp/
+
